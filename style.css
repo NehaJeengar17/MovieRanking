@@ -14,3 +14,8 @@ li h3{
 p{
     color: black;
 }
+
+img{
+    height: 300px;
+    width: 300px;
+}
